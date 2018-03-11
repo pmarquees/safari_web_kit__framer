@@ -1,6 +1,12 @@
 # Safari Web Kit for Framer
 
-This is a safari kit that contains all the standard UI elements and animations 
+![safari_ui gif](https://media.giphy.com/media/1X7vtew2kEj5qLsoVs/giphy.gif)
+
+This is a safari kit that contains all the standard UI elements and animations
+
+* Top navigation retracting on scroll
+* Bottom navigation desappearing while scrilling
+* Easy to use scrollable content
 
 ## Getting Started
 Just download it, in the design mode just add your design into the `wePage` frame
