@@ -219,29 +219,29 @@
                       "depth" : 0,
                       "inlineStyleRanges" : [
                         {
-                          "length" : 10,
                           "style" : "LETTERSPACING:0",
-                          "offset" : 0
+                          "offset" : 0,
+                          "length" : 10
                         },
                         {
-                          "length" : 10,
                           "style" : "LINEHEIGHT:1.2",
-                          "offset" : 0
+                          "offset" : 0,
+                          "length" : 10
                         },
                         {
-                          "length" : 10,
                           "style" : "FONT:__SF-UI-Text-Regular__",
-                          "offset" : 0
+                          "offset" : 0,
+                          "length" : 10
                         },
                         {
-                          "length" : 10,
                           "style" : "SIZE:16",
-                          "offset" : 0
+                          "offset" : 0,
+                          "length" : 10
                         },
                         {
-                          "length" : 10,
                           "style" : "COLOR:rgba(72, 177, 92, 1.00)",
-                          "offset" : 0
+                          "offset" : 0,
+                          "length" : 10
                         }
                       ],
                       "entityRanges" : [
@@ -711,13 +711,11 @@
                 "editable" : false,
                 "rotation" : 0,
                 "blurType" : "layer",
-                "x" : 97,
+                "__class" : "TextNode",
                 "id" : "IM5uaYq4n",
                 "saturateEnabled" : 0,
-                "y" : 14,
                 "grayscale" : 0,
                 "hueRotateEnabled" : 0,
-                "__class" : "TextNode",
                 "widthFactor" : null,
                 "opacity" : 1,
                 "contrastEnabled" : 0,
@@ -741,29 +739,29 @@
                       "depth" : 0,
                       "inlineStyleRanges" : [
                         {
-                          "length" : 5,
                           "style" : "COLOR:rgb(0, 0, 0)",
-                          "offset" : 0
+                          "offset" : 0,
+                          "length" : 5
                         },
                         {
-                          "length" : 5,
                           "style" : "LETTERSPACING:0",
-                          "offset" : 0
+                          "offset" : 0,
+                          "length" : 5
                         },
                         {
-                          "length" : 5,
                           "style" : "LINEHEIGHT:1.2",
-                          "offset" : 0
+                          "offset" : 0,
+                          "length" : 5
                         },
                         {
-                          "length" : 5,
                           "style" : "FONT:__SF-UI-Text-Bold__",
-                          "offset" : 0
+                          "offset" : 0,
+                          "length" : 5
                         },
                         {
-                          "length" : 5,
                           "style" : "SIZE:14",
-                          "offset" : 0
+                          "offset" : 0,
+                          "length" : 5
                         }
                       ],
                       "entityRanges" : [
@@ -3519,7 +3517,7 @@
         "fillEnabled" : true,
         "right" : null,
         "opacity" : 1,
-        "name" : null,
+        "name" : "Browser",
         "blendingMode" : "normal",
         "contrast" : 100,
         "centerAnchorY" : 0,
@@ -3601,7 +3599,7 @@
                 "fillEnabled" : false,
                 "right" : 0,
                 "opacity" : 1,
-                "name" : null,
+                "name" : "Insert your AMAZING design in the frame",
                 "blendingMode" : "normal",
                 "originalFilename" : "framer.com_(iPhone X).png",
                 "contrast" : 100,
@@ -3791,6 +3789,553 @@
         "borderTop" : 1,
         "targetName" : null,
         "radiusBottomRight" : 0,
+        "brightness" : 100
+      },
+      {
+        "sepiaEnabled" : 0,
+        "editable" : false,
+        "rotation" : 0,
+        "blurType" : "layer",
+        "__class" : "TextNode",
+        "id" : "MMe1hLNn1",
+        "saturateEnabled" : 0,
+        "grayscale" : 0,
+        "hueRotateEnabled" : 0,
+        "widthFactor" : null,
+        "opacity" : 1,
+        "contrastEnabled" : 0,
+        "locked" : false,
+        "left" : 158,
+        "styledText" : {
+          "cached" : {
+            "size" : {
+              "width" : 602,
+              "height" : 67
+            },
+            "os" : "10_12",
+            "width" : 0,
+            "html" : "<span data-offset-key=\"3k5is-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText-Bold&quot;, &quot;SFProText-Bold&quot;, &quot;SFUIText-Bold&quot;, &quot;.SFUIText-Bold&quot;, sans-serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:56px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Hey there stranger ✌️<\/span><\/span>"
+          },
+          "entityMap" : {
+
+          },
+          "blocks" : [
+            {
+              "depth" : 0,
+              "inlineStyleRanges" : [
+                {
+                  "length" : 21,
+                  "style" : "COLOR:rgb(0, 0, 0)",
+                  "offset" : 0
+                },
+                {
+                  "length" : 21,
+                  "style" : "LETTERSPACING:0",
+                  "offset" : 0
+                },
+                {
+                  "length" : 21,
+                  "style" : "LINEHEIGHT:1.2",
+                  "offset" : 0
+                },
+                {
+                  "length" : 21,
+                  "style" : "FONT:__SF-UI-Text-Bold__",
+                  "offset" : 0
+                },
+                {
+                  "length" : 21,
+                  "style" : "SIZE:56",
+                  "offset" : 0
+                }
+              ],
+              "entityRanges" : [
+
+              ],
+              "data" : {
+                "emptyStyle" : [
+                  "COLOR:rgb(0, 0, 0)",
+                  "LETTERSPACING:0",
+                  "LINEHEIGHT:1.2",
+                  "FONT:__SF-UI-Text-Bold__",
+                  "SIZE:56"
+                ]
+              },
+              "text" : "Hey there stranger ✌️",
+              "key" : "3k5is",
+              "type" : "unstyled"
+            }
+          ],
+          "__class" : "StyledTextDraft"
+        },
+        "blendingMode" : "normal",
+        "invert" : 0,
+        "sepia" : 0,
+        "centerAnchorX" : 0,
+        "blurEnabled" : 0,
+        "shadows" : [
+
+        ],
+        "parentid" : "MlIDzGM7Q",
+        "brightnessEnabled" : 0,
+        "exportOptions" : [
+
+        ],
+        "name" : null,
+        "saturate" : 100,
+        "height" : 67,
+        "blendingEnabled" : 0,
+        "top" : -384,
+        "constraintsLocked" : false,
+        "right" : null,
+        "visible" : true,
+        "centerAnchorY" : 0,
+        "contrast" : 100,
+        "grayScaleEnabled" : 0,
+        "hueRotate" : 0,
+        "heightFactor" : null,
+        "targetName" : null,
+        "bottom" : null,
+        "blur" : 12,
+        "autoSize" : true,
+        "invertEnabled" : 0,
+        "width" : 602,
+        "brightness" : 100
+      },
+      {
+        "sepiaEnabled" : 0,
+        "editable" : false,
+        "rotation" : 0,
+        "blurType" : "layer",
+        "__class" : "TextNode",
+        "id" : "uO1Uih9tn",
+        "saturateEnabled" : 0,
+        "grayscale" : 0,
+        "hueRotateEnabled" : 0,
+        "widthFactor" : null,
+        "opacity" : 1,
+        "contrastEnabled" : 0,
+        "locked" : false,
+        "left" : 158,
+        "styledText" : {
+          "blocks" : [
+            {
+              "depth" : 0,
+              "inlineStyleRanges" : [
+                {
+                  "length" : 74,
+                  "style" : "COLOR:rgb(0, 0, 0)",
+                  "offset" : 0
+                },
+                {
+                  "length" : 74,
+                  "style" : "LETTERSPACING:0",
+                  "offset" : 0
+                },
+                {
+                  "length" : 74,
+                  "style" : "LINEHEIGHT:1.2",
+                  "offset" : 0
+                },
+                {
+                  "length" : 74,
+                  "style" : "SIZE:16",
+                  "offset" : 0
+                },
+                {
+                  "length" : 74,
+                  "style" : "FONT:__SF-UI-Text-Light__",
+                  "offset" : 0
+                }
+              ],
+              "entityRanges" : [
+
+              ],
+              "data" : {
+                "emptyStyle" : [
+                  "COLOR:rgb(0, 0, 0)",
+                  "LETTERSPACING:0",
+                  "LINEHEIGHT:1.2",
+                  "SIZE:16",
+                  "FONT:__SF-UI-Text-Light__"
+                ]
+              },
+              "text" : "This Framer kit is designed by Pedro Marques https:\/\/twitter.com\/pmarquees",
+              "key" : "5c1s7",
+              "type" : "unstyled"
+            },
+            {
+              "depth" : 0,
+              "inlineStyleRanges" : [
+
+              ],
+              "entityRanges" : [
+
+              ],
+              "data" : {
+                "emptyStyle" : [
+                  "COLOR:rgb(0, 0, 0)",
+                  "LETTERSPACING:0",
+                  "LINEHEIGHT:1.2",
+                  "SIZE:16",
+                  "FONT:__SF-UI-Text-Light__"
+                ]
+              },
+              "text" : "",
+              "key" : "a1v73",
+              "type" : "unstyled"
+            },
+            {
+              "depth" : 0,
+              "inlineStyleRanges" : [
+                {
+                  "length" : 52,
+                  "style" : "COLOR:rgb(0, 0, 0)",
+                  "offset" : 0
+                },
+                {
+                  "length" : 52,
+                  "style" : "LETTERSPACING:0",
+                  "offset" : 0
+                },
+                {
+                  "length" : 52,
+                  "style" : "LINEHEIGHT:1.2",
+                  "offset" : 0
+                },
+                {
+                  "length" : 52,
+                  "style" : "SIZE:16",
+                  "offset" : 0
+                },
+                {
+                  "length" : 52,
+                  "style" : "FONT:__SF-UI-Text-Light__",
+                  "offset" : 0
+                }
+              ],
+              "entityRanges" : [
+
+              ],
+              "data" : {
+                "emptyStyle" : [
+                  "COLOR:rgb(0, 0, 0)",
+                  "LETTERSPACING:0",
+                  "LINEHEIGHT:1.2",
+                  "SIZE:16",
+                  "FONT:__SF-UI-Text-Light__"
+                ]
+              },
+              "text" : "I hope this helps you build your shiny prototypes <3",
+              "key" : "8g5jk",
+              "type" : "unstyled"
+            }
+          ],
+          "__class" : "StyledTextDraft",
+          "entityMap" : {
+
+          }
+        },
+        "blendingMode" : "normal",
+        "invert" : 0,
+        "sepia" : 0,
+        "centerAnchorX" : 0,
+        "blurEnabled" : 0,
+        "shadows" : [
+
+        ],
+        "parentid" : "MlIDzGM7Q",
+        "brightnessEnabled" : 0,
+        "exportOptions" : [
+
+        ],
+        "name" : null,
+        "saturate" : 100,
+        "height" : 83,
+        "blendingEnabled" : 0,
+        "top" : -311,
+        "constraintsLocked" : false,
+        "right" : null,
+        "visible" : true,
+        "centerAnchorY" : 0,
+        "contrast" : 100,
+        "grayScaleEnabled" : 0,
+        "hueRotate" : 0,
+        "heightFactor" : null,
+        "targetName" : null,
+        "bottom" : null,
+        "blur" : 12,
+        "autoSize" : false,
+        "invertEnabled" : 0,
+        "width" : 737,
+        "brightness" : 100
+      },
+      {
+        "sepiaEnabled" : 0,
+        "editable" : false,
+        "rotation" : 0,
+        "blurType" : "layer",
+        "__class" : "TextNode",
+        "id" : "aqtYAVzcY",
+        "saturateEnabled" : 0,
+        "grayscale" : 0,
+        "hueRotateEnabled" : 0,
+        "widthFactor" : null,
+        "opacity" : 1,
+        "contrastEnabled" : 0,
+        "locked" : false,
+        "left" : 655,
+        "styledText" : {
+          "blocks" : [
+            {
+              "depth" : 0,
+              "inlineStyleRanges" : [
+                {
+                  "length" : 24,
+                  "style" : "COLOR:rgb(0, 0, 0)",
+                  "offset" : 0
+                },
+                {
+                  "length" : 24,
+                  "style" : "LETTERSPACING:0",
+                  "offset" : 0
+                },
+                {
+                  "length" : 24,
+                  "style" : "LINEHEIGHT:1.2",
+                  "offset" : 0
+                },
+                {
+                  "length" : 24,
+                  "style" : "SIZE:16",
+                  "offset" : 0
+                },
+                {
+                  "length" : 24,
+                  "style" : "FONT:__SF-UI-Text-Light__",
+                  "offset" : 0
+                }
+              ],
+              "entityRanges" : [
+
+              ],
+              "data" : {
+                "emptyStyle" : [
+                  "COLOR:rgb(0, 0, 0)",
+                  "LETTERSPACING:0",
+                  "LINEHEIGHT:1.2",
+                  "SIZE:16",
+                  "FONT:__SF-UI-Text-Light__"
+                ]
+              },
+              "text" : "This is your playground!",
+              "key" : "5c1s7",
+              "type" : "unstyled"
+            },
+            {
+              "depth" : 0,
+              "inlineStyleRanges" : [
+                {
+                  "length" : 123,
+                  "style" : "COLOR:rgb(0, 0, 0)",
+                  "offset" : 0
+                },
+                {
+                  "length" : 123,
+                  "style" : "LETTERSPACING:0",
+                  "offset" : 0
+                },
+                {
+                  "length" : 123,
+                  "style" : "LINEHEIGHT:1.2",
+                  "offset" : 0
+                },
+                {
+                  "length" : 123,
+                  "style" : "SIZE:16",
+                  "offset" : 0
+                },
+                {
+                  "length" : 43,
+                  "style" : "FONT:__SF-UI-Text-Light__",
+                  "offset" : 0
+                },
+                {
+                  "length" : 7,
+                  "style" : "FONT:__SF-UI-Text-Semibold-Italic__",
+                  "offset" : 43
+                },
+                {
+                  "length" : 73,
+                  "style" : "FONT:__SF-UI-Text-Regular__",
+                  "offset" : 50
+                }
+              ],
+              "entityRanges" : [
+
+              ],
+              "data" : {
+                "emptyStyle" : [
+                  "COLOR:rgb(0, 0, 0)",
+                  "LETTERSPACING:0",
+                  "LINEHEIGHT:1.2",
+                  "SIZE:16",
+                  "FONT:__SF-UI-Text-Light__"
+                ]
+              },
+              "text" : "Reminder: Add\/build your design inside the wePage frame because that is the parent div that dictates the scrollable content",
+              "key" : "8k9r2",
+              "type" : "unstyled"
+            }
+          ],
+          "__class" : "StyledTextDraft",
+          "entityMap" : {
+
+          }
+        },
+        "blendingMode" : "normal",
+        "invert" : 0,
+        "sepia" : 0,
+        "centerAnchorX" : 0,
+        "blurEnabled" : 0,
+        "shadows" : [
+
+        ],
+        "parentid" : "MlIDzGM7Q",
+        "brightnessEnabled" : 0,
+        "exportOptions" : [
+
+        ],
+        "name" : null,
+        "saturate" : 100,
+        "height" : 83,
+        "blendingEnabled" : 0,
+        "top" : -163,
+        "constraintsLocked" : false,
+        "right" : null,
+        "visible" : true,
+        "centerAnchorY" : 0,
+        "contrast" : 100,
+        "grayScaleEnabled" : 0,
+        "hueRotate" : 0,
+        "heightFactor" : null,
+        "targetName" : null,
+        "bottom" : null,
+        "blur" : 12,
+        "autoSize" : false,
+        "invertEnabled" : 0,
+        "width" : 369,
+        "brightness" : 100
+      },
+      {
+        "sepiaEnabled" : 0,
+        "editable" : false,
+        "rotation" : 0,
+        "blurType" : "layer",
+        "__class" : "TextNode",
+        "id" : "V657tApYY",
+        "saturateEnabled" : 0,
+        "grayscale" : 0,
+        "hueRotateEnabled" : 0,
+        "widthFactor" : null,
+        "opacity" : 1,
+        "contrastEnabled" : 0,
+        "locked" : false,
+        "left" : 158,
+        "styledText" : {
+          "cached" : {
+            "size" : {
+              "width" : 370,
+              "height" : 48
+            },
+            "os" : "10_12",
+            "width" : 369,
+            "html" : "<span data-offset-key=\"5c1s7-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText-Light&quot;, &quot;SFProText-Light&quot;, &quot;SFUIText-Light&quot;, &quot;.SFUIText-Light&quot;, sans-serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:14px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">This is the browser itself, here you can, for example, change the text in the address bar so it reflects your content nicely<\/span><\/span>"
+          },
+          "entityMap" : {
+
+          },
+          "blocks" : [
+            {
+              "depth" : 0,
+              "inlineStyleRanges" : [
+                {
+                  "style" : "COLOR:rgb(0, 0, 0)",
+                  "offset" : 0,
+                  "length" : 124
+                },
+                {
+                  "style" : "LETTERSPACING:0",
+                  "offset" : 0,
+                  "length" : 124
+                },
+                {
+                  "style" : "LINEHEIGHT:1.2",
+                  "offset" : 0,
+                  "length" : 124
+                },
+                {
+                  "style" : "FONT:__SF-UI-Text-Light__",
+                  "offset" : 0,
+                  "length" : 124
+                },
+                {
+                  "style" : "SIZE:14",
+                  "offset" : 0,
+                  "length" : 124
+                }
+              ],
+              "entityRanges" : [
+
+              ],
+              "data" : {
+                "emptyStyle" : [
+                  "COLOR:rgb(0, 0, 0)",
+                  "LETTERSPACING:0",
+                  "LINEHEIGHT:1.2",
+                  "FONT:__SF-UI-Text-Light__",
+                  "SIZE:14"
+                ]
+              },
+              "text" : "This is the browser itself, here you can, for example, change the text in the address bar so it reflects your content nicely",
+              "key" : "5c1s7",
+              "type" : "unstyled"
+            }
+          ],
+          "__class" : "StyledTextDraft"
+        },
+        "blendingMode" : "normal",
+        "invert" : 0,
+        "sepia" : 0,
+        "centerAnchorX" : 0,
+        "blurEnabled" : 0,
+        "shadows" : [
+
+        ],
+        "parentid" : "MlIDzGM7Q",
+        "brightnessEnabled" : 0,
+        "exportOptions" : [
+
+        ],
+        "name" : null,
+        "saturate" : 100,
+        "height" : 83,
+        "blendingEnabled" : 0,
+        "top" : -158,
+        "constraintsLocked" : false,
+        "right" : null,
+        "visible" : true,
+        "centerAnchorY" : 0,
+        "contrast" : 100,
+        "grayScaleEnabled" : 0,
+        "hueRotate" : 0,
+        "heightFactor" : null,
+        "targetName" : null,
+        "bottom" : null,
+        "blur" : 12,
+        "autoSize" : false,
+        "invertEnabled" : 0,
+        "width" : 369,
         "brightness" : 100
       }
     ]

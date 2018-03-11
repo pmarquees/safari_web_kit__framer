@@ -1,6 +1,8 @@
 # Oh, hey there! 
 # 
-# I'm still learning how to use framer, so feel free to change anything here =D
+# I'm still learning how to use framer, so feel free to change anything here, 
+# and if you do don't forget to give back to the community by submitting a pull request at https://github.com/pmarquees/safari_web_kit__framer
+# ❤️
 
 
 ## Defining global variables to be used later
@@ -17,6 +19,7 @@ scroll = new ScrollComponent
 	width: Screen.width
 	contentInset: 
 		top: 30
+
 
 webPage.parent=scroll.content
 
